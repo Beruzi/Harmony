@@ -16,5 +16,5 @@ This is when algorithms look at multiple users and find overlapping songs betwee
 This is the more objective way to measure how similar one song is to another. You compare the actual songs and their qualities to one another... tempo, harmony, instruments, key, etc. This is what I'll be focusing on. 
 
 ## Plans
-This project will also serve as my first real Machine Learning Project (sorry fantasy football projector). I intend on taking a deep dive in ML and Deep Learning to create a thorough model. I imagine I'll learn some pretty cool domain knowledge on audio and audio processing. If the model I intend on training becomes too computationally demanding, I will reach out to my University's High Performance Computing Lab and see if I can get access to that. 
+This project will also serve as my first real Machine Learning Project (sorry fantasy football projector). I intend on building off the knowledge and skills I've accumatlated in the ML space from my undergrad research with something a little more personally motivated. I imagine I'll need to pick up domain knowledge on audio and audio processing. If the model I intend on training becomes too computationally demanding, I will reach out to my University's High Performance Computing Lab and see if I can get access to that. 
 
